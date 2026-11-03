@@ -1,16 +1,15 @@
-## Hi there 👋
+# Takeam J Gauthier
 
-<!--
-**takeam/takeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT & Network Administrator based in Miami, FL — LAN/WAN infrastructure, virtualization, PBX/VoIP telephony, and Azure cloud services.
 
-Here are some ideas to get you started:
+## Core Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Networking** — TCP/IP · Cisco · FortiGate · Meraki · Juniper · Ubiquiti EdgeRouter · Wi-Fi 6 (802.11ax)
+- **Telephony** — FreePBX · Asterisk · PJSIP · 3CX · SIP trunking · IVR & call queues
+- **Virtualization** — Hyper-V · Proxmox · KVM/QEMU · LXD · Docker · AWS EC2
+- **Cloud & DevOps** — Azure (Storage, Functions, Cosmos DB, CDN) · Infrastructure as Code · CI/CD pipelines
+- **Systems** — Windows Server · Active Directory · Linux · Bash automation
+
+## Connect
+
+🔗 [Portfolio](https://takeamjgauthier.com) · [LinkedIn](https://www.linkedin.com/in/takeam-gauthier)
