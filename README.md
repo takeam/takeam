@@ -12,4 +12,4 @@ IT & Network Administrator based in Miami, FL — LAN/WAN infrastructure, virtua
 
 ## Connect
 
-🔗 [Portfolio](https://takeamjgauthier.com) · [LinkedIn](https://www.linkedin.com/in/takeam-gauthier)
+🔗 [Portfolio](https://www.takeamjgauthier.com/) · [LinkedIn](https://www.linkedin.com/in/takeam-gauthier)
